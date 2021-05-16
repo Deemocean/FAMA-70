@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 22 15:19:42 2020
-
-@author: ipaskov
-"""
-
 
 #Run LR as a baseline
 #Try variants (alternate feature representation, etc)
